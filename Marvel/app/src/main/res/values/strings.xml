@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Marvel</string>
+    <string name="detalhe_name">Detalhes</string>
+    <string name="informacoes_name">Marvel Studios</string>
+    <string name="texto_home">"Olá addNomeDoUsuarioLogado esses são alguns dos personagens da Marvel</string>
+    <string name="lista_nome_heroi">Nome do heroi</string>
+    <string name="texto_detalhe_descricao">Rogue é uma mutante Nível Ômega, personagem de histórias em quadrinhos da editora Marvel Comics. Vampira é integrante de algumas equipes dos X-Men e dos Vingadores</string>
+    <string name="texto_informacoes_marvel">Informações sobre a Marvel</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="filmes_texto">AQUI PODERIA TER UM RECYCLERVIEW COM ALGUNS FILMES DA MARVEL!</string>
+    <string name="hqs_texto">AQUI PODERIA TER UM RECYCLERVIEW COM ALGUNS HQS DA MARVEL!</string>
+    <string name="description_image_splash">Imagem com os personagens da Marvel</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">E-mail</string>
+    <string name="prompt_password">Senha</string>
+    <string name="action_sign_in">LOGIN</string>
+    <string name="action_sign_in_short">Login</string>
+    <string name="welcome">"LOGIN"</string>
+    <string name="invalid_username">Username deve conter mais de 3 caracteres</string>
+    <string name="invalid_password">Senha deve conter no máximo 8 caracteres</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="create_account">"Crie sua conta agora"</string>
+
+    <!-- Strings related to register exclusively -->
+    <string name="name">Nome</string>
+    <string name="action_register">REGISTRAR CONTA</string>
+
+</resources>
